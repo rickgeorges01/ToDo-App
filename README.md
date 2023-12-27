@@ -38,9 +38,9 @@ Les contributions sont toujours les bienvenues ! Veuillez suivre ces étapes pou
 5. Ouvrez une Pull Request
 
 
-## Contact
+<h3>Contact</h3> 
 
-Votre Rick Georges YELEUMEU - [yeleumeurickgeorges@gmail.com]
+Rick Georges YELEUMEU - [yeleumeurickgeorges@gmail.com]
 
 Lien du projet : [https://github.com/rickgeorges01/ToDo-App.git]
 
