@@ -14,8 +14,37 @@ Pour exécuter cette application sur votre machine locale, suivez ces étapes :
 
 1. Clonez le dépôt :
   `git clone https://github.com/rickgeorges01/ToDo-App.git`
-3. Installez les dépendances :
+2. Installez les dépendances :
+   cd ToDo-App
    `npm install`
+3. Lancez l'application :
+   `npm start`
+
+<h3>Technologies Utilisées</h3>
+
+- React Native
+- Firebase pour l'authentification
+- React Navigation pour la navigation dans l'application
+- Expo pour le développement et le test
+
+<h3>Contribuer</h3>
+
+Les contributions sont toujours les bienvenues ! Veuillez suivre ces étapes pour contribuer :
+
+1. Forkez le projet
+2. Créez votre branche de fonctionnalité (`git checkout -b feature/AmazingFeature`)
+3. Commitez vos changements (`git commit -m 'Add some AmazingFeature'`)
+4. Poussez vers la branche (`git push origin feature/AmazingFeature`)
+5. Ouvrez une Pull Request
+
+
+## Contact
+
+Votre Rick Georges YELEUMEU - [yeleumeurickgeorges@gmail.com]
+
+Lien du projet : [https://github.com/rickgeorges01/ToDo-App.git]
+
+
 
 
 
